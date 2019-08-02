@@ -1,4 +1,4 @@
-numbers = [1,2,3]
+# numbers = [1,2,3]
 def square_array(array)
   new_array = []
   array.each do |number|
@@ -9,6 +9,6 @@ def square_array(array)
   new_array
 end
 
-square_array(numbers)
+# square_array(numbers)
 #
 # numbers = [1,2,3]
