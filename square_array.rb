@@ -9,7 +9,3 @@ def square_array(array)
   end
   new_array
 end
-
-square_array(numbers)
-#
-# numbers = [1,2,3]
