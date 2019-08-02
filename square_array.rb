@@ -1,7 +1,8 @@
 numbers = [1,2,3]
 def square_array(array)
   new_array = []
-  new_array << array.each {|number| number**number}
+  squared_num = array.each {|number| number**number}
+  new_array << squared_num
 end
 
 numbers = [1,2,3]
